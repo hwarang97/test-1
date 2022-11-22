@@ -64,6 +64,6 @@ def sum(n : int) -> int :
 
 [네이버](www.naver.com, '검색 포털')
 
-![image](https://as2.ftcdn.net/v2/jpg/02/73/90/41/1000_F_273904160_ADQSiwIjZCm9O2Si9JY7hjcFXze2SO7S.jpg)
+![image](./images/steak.jpg)
 
 
